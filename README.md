@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hannah-lynn
-- 🌱 I’m currently learning about Next.js
 - 📫 You can reach me [here](https://hannahlynn.dev)
 
 <!---
